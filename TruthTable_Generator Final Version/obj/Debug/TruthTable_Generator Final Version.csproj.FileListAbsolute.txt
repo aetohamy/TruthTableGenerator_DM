@@ -1,0 +1,6 @@
+c:\users\tohamy\documents\visual studio 2013\Projects\TruthTable_Generator Final Version\TruthTable_Generator Final Version\bin\Debug\TruthTable_Generator Final Version.exe.config
+c:\users\tohamy\documents\visual studio 2013\Projects\TruthTable_Generator Final Version\TruthTable_Generator Final Version\bin\Debug\TruthTable_Generator Final Version.exe
+c:\users\tohamy\documents\visual studio 2013\Projects\TruthTable_Generator Final Version\TruthTable_Generator Final Version\bin\Debug\TruthTable_Generator Final Version.pdb
+c:\users\tohamy\documents\visual studio 2013\Projects\TruthTable_Generator Final Version\TruthTable_Generator Final Version\obj\Debug\TruthTable_Generator Final Version.exe
+c:\users\tohamy\documents\visual studio 2013\Projects\TruthTable_Generator Final Version\TruthTable_Generator Final Version\obj\Debug\TruthTable_Generator Final Version.pdb
+c:\users\tohamy\documents\visual studio 2013\Projects\TruthTable_Generator Final Version\TruthTable_Generator Final Version\obj\Debug\TruthTable_Generator Final Version.csprojResolveAssemblyReference.cache
